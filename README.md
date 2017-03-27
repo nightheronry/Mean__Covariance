@@ -89,4 +89,4 @@ Considering the two features, sepal_length and sepal_width (mean_vector[0] and m
  far from the others. In contrast, Iris_versicolor and Iris_virginica are near.
 
 
-![dataplot](https://github.com/nightheronry/Pattern-Recognition/blob/master/HW1/dataplot.png)
+![dataplot](https://github.com/nightheronry/Mean__Covariance/blob/master/dataplot.png)
