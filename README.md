@@ -10,11 +10,9 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 
 ## **Mean Vector**
 The mean vector consists of the means of each variable as following:
-![mean]()
 
-$$
- \mathbf{\bar{x}}=\frac{1}{N}\sum_{i=1}^{N}\mathbf{x}_i
-$$
+![mean](https://github.com/nightheronry/Mean__Covariance/blob/master/Mean.png)
+
 ```python
 def get_mean_vector(A):
     mean_vector=[]
@@ -28,10 +26,9 @@ def get_mean_vector(A):
 ## **covariance matrix**
 The variance-covariance matrix consists of the variances of the variables along the main diagonal and the covariances between each pair of variables in the other matrix positions.
 The formula for computing the covariance of the variables _X_ and _Y_ is
-![covariance]()
-$$
- \mbox{COV} = \frac{\sum_{i=1}^n (X_i - \bar{x})(Y_i - \bar{y})}{n-1} 
-$$
+
+![covariance](https://github.com/nightheronry/Mean__Covariance/blob/master/covariance.png)
+
 ```python
 def get_covariance_matrix(A):
     if all_Feature == False:
