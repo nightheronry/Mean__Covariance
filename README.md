@@ -86,7 +86,7 @@ get_covariance_matrix:
  [ 0.04909387  0.04762857  0.04882448  0.07543266]]
 ``` 
 Considering the two features, sepal_length and sepal_width (mean_vector[0] and mean_vector[1]), we find Iris_setosa(Red) is
- far from the others. By contrast, Iris_versicolor(Blue) and Iris_virginica(Green) are near.
+ far from the others. By contrast, Iris_versicolor(Blue) and Iris_virginica(Green) are near each other.
 
 
 ![dataplot](https://github.com/nightheronry/Mean__Covariance/blob/master/dataplot.png)
