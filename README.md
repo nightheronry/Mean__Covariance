@@ -90,3 +90,7 @@ Considering the two features, sepal_length and sepal_width (mean_vector[0] and m
 
 
 ![dataplot](https://github.com/nightheronry/Mean__Covariance/blob/master/dataplot.png)
+
+## License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
