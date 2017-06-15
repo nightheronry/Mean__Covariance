@@ -1,5 +1,5 @@
 
-
+[![DUB](https://img.shields.io/dub/l/vibe-d.svg)]()
 
 # **Mean Vector & Covariance Matrix** 
 This is course homework project No.1 on Spring 2015 pattern recognition at CS, NCHU.
